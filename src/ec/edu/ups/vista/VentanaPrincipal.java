@@ -182,7 +182,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagen/3.jpg"))); // NOI18N
         jLabel2.setText("jLabel2");
         getContentPane().add(jLabel2);
-        jLabel2.setBounds(0, 0, 570, 450);
+        jLabel2.setBounds(0, 0, 480, 450);
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
